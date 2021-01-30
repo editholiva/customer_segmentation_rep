@@ -1,2 +1,3 @@
-# customer_segmentation_rep
+# Customer Segmentation using Machine Learning in R
+
 Replication of a Data Flair project
